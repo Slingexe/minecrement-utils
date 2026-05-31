@@ -1,19 +1,13 @@
-# minecrement-utils
-Adds many QoL features to make your life easier, and to help AFK! You can be tabbed out and the mod will still do it's thing!
+# Minecrement Utils Issue Tracker / Release Repo
+The source code for **Minecrement Utils** is private. This repo only serves as an issue tracker and another way to download the releases.  
+If you are looking for Reddo's older releases, you can find them [here](https://github.com/ReddoMC/minecrement-utils/releases).  
 
-Feature list:<br>
-/calculatebestmine (calculate best mine for coins and xp)<br>
-/smartwarp <mine/cave> to quick warp to places<br>
-Auto-Reconnect<br>
-Auto GG<br>
-Auto-Ability (Auto detects your abilities!)<br>
-Webhook sending various things, very configurable<br>
-Reset Helper to make rebirthing and prestiging easier.<br>
-Auto /daily<br>
-Hide level up title
+## Links
+[Create Issue](https://github.com/Slingexe/minecrement-utils/issues/new/choose)
 
-# You can get the mod from the releases tab on the right! If you experience any bugs, contact reddocool on discord!
+[Tracker Board](https://github.com/users/Slingexe/projects/7)  
+[Mod's Modrinth Page](https://modrinth.com/mod/minecrement-utils)  
 
-DEPENDENCIES:
+## DEPENDENCIES
 CLOTH CONFIG API (https://modrinth.com/mod/cloth-config)<br>
 FABRIC API (https://modrinth.com/mod/fabric-api)
